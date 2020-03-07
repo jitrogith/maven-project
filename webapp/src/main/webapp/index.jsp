@@ -1,2 +1,2 @@
-<h1>DAMN, I LOVE INDONESIA !</h1>
-<h2>This is Jenkins, Jitro !</h2>
+<h1>I LOVE INDONESIA !</h1>
+<h2>AMAZING !!!</h2>
